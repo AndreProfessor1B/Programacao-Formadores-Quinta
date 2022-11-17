@@ -1,0 +1,66 @@
+body {
+	background-color:  azure;
+}
+
+header {
+	background-color: lightcoral;
+	margin: ;
+	margin-bottom: 60px;
+	padding: 10px;
+	padding-left: 150px;
+	border:  5px solid crimson;
+}
+
+img{
+	
+}
+
+nav {
+	display: inline;
+}
+
+nav ul {
+	display: inline;
+}
+
+nav li {
+	display: inline;
+	margin-left: 200px;
+}
+
+li {
+	font-family: verdana, Geneva, Tahoma, sans-serif;
+	font-size: 20px;
+	
+}
+
+.texto-principal {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 40px;
+	color: maroon ;
+}
+
+.imagem-principal {
+	position: relative;
+	border: 4px solid lightcoral;
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px;
+}
+
+.lista {
+	font-family: Arial;
+	font-size: 30px;
+	margin: 20px
+}
+
+#cabeloBarba {
+	border: 3px solid violet;
+	text-align: center;
+	margin: 0 1.5%;
+}
